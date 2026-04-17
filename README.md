@@ -1,4 +1,4 @@
-# 🔌 RHEL SSH Manager Pro
+# 🔌 RHEL VPS & SSH Manager Pro
 
 **Birden fazla sunucuyu tek bir arayüzden yönetin!**
 
