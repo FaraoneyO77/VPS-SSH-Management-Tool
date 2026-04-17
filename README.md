@@ -297,3 +297,61 @@ cd ssh-manager
 ---
 
 ## 📁 Proje Yapısı
+
+```bash
+ssh-manager/
+│
+├── main.py                 # Ana uygulama
+├── core/
+│   ├── ssh_client.py       # SSH bağlantı yöneticisi
+│   └── key_manager.py      # SSH key oluşturma/yükleme
+├── modules/
+│   ├── terminal.py         # Terminal bağlantısı
+│   ├── file_browser.py     # Dosya gezgini
+│   ├── file_transfer.py    # PC ↔ Sunucu dosya transferi
+│   ├── server_transfer.py  # Sunucu → Sunucu transfer
+│   ├── server_backup.py    # Sunucular arası yedekleme
+│   ├── bulk_commands.py    # Toplu komut gönderme
+│   ├── monitoring.py       # CPU/RAM/Disk izleme
+│   ├── log_viewer.py       # Log izleyici
+│   ├── backup.py           # PC'ye yedekleme
+│   ├── service_manager.py  # systemctl servis yönetimi
+│   ├── firewall_manager.py # firewalld yönetimi
+│   └── k8s_manager.py      # Kubernetes/K3s yönetimi
+└── data/
+    └── servers.json        # (otomatik oluşur)
+```
+
+---
+
+## 🤝 Katkıda Bulunma
+
+1. Bu repoyu fork edin
+2. Yeni bir branch oluşturun (`git checkout -b feature/yeniOzellik`)
+3. Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik eklendi'`)
+4. Branch'inizi push edin (`git push origin feature/yeniOzellik`)
+5. Pull Request oluşturun
+
+---
+
+## 📄 Lisans
+
+Bu proje GNU lisansı ile lisanslanmıştır.
+
+---
+
+## 👨‍💻 Yazar
+
+**Cihan Dik**
+
+- GitHub: [@FaraoneyO77](https://github.com/FaraoneyO77)
+
+---
+
+## ⭐ Beğendiniz mi?
+
+Projeyi beğendiyseniz ⭐ yıldız vermeyi unutmayın!
+
+---
+
+**Made with ❤️ for DevOps**
