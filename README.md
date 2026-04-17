@@ -1,4 +1,4 @@
-# 🔌 SSH Manager Pro
+# 🔌 RHEL SSH Manager Pro
 
 **Birden fazla sunucuyu tek bir arayüzden yönetin!**
 
