@@ -59,3 +59,10 @@ cd ssh-manager
 ---
 
 ## ⚙️ Kullanım Kılavuzu
+
+### 🔑 İlk Çalıştırma (SSH Key Oluşturma)
+
+Uygulama ilk çalıştığında otomatik olarak SSH anahtarı oluşturur. Anahtar şu konuma kaydedilir:
+
+```C:\Users\KULLANICIADI\.ssh\id_ed25519```
+
