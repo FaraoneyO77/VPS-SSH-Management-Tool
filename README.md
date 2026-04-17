@@ -62,7 +62,7 @@ cd ssh-manager
 
 ### 🔑 İlk Çalıştırma (SSH Key Oluşturma)
 
-Uygulama ilk çalıştığında otomatik olarak SSH anahtarı oluşturur. Anahtar şu konuma kaydedilir:
+> Uygulama ilk çalıştığında otomatik olarak SSH anahtarı oluşturur. Anahtar şu konuma kaydedilir:
 
 ```C:\Users\KULLANICIADI\.ssh\id_ed25519```
 
