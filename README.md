@@ -45,7 +45,7 @@
 ### 1. Projeyi İndirin
 
 ```bash
-git clone https://github.com/kullaniciadin/ssh-manager.git
+git clone https://github.com/Faraoney077/VPS-SSH-Management-Tool
 cd ssh-manager
 ```
 ### 2. Gerekli Kütüphaneleri Kurun
