@@ -46,4 +46,6 @@
 
 ```bash
 git clone https://github.com/kullaniciadin/ssh-manager.git
-cd ssh-manager
+cd ssh-manager ```
+
+### 2. Gerekli Kütüphaneleri Kurun
