@@ -3,16 +3,10 @@
 **Birden fazla sunucuyu tek bir arayüzden yönetin!**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg)]()
 
 > SSH Manager Pro, birden fazla sunucuyu tek bir GUI arayüzünden yönetmenizi sağlayan kapsamlı bir araçtır. SSH key ile şifresiz bağlantı, dosya transferi, toplu komut gönderme ve daha fazlası...
 
----
-
-## 📸 Ekran Görüntüleri
-
-*(İleride ekleyebilirsiniz)*
 
 ---
 
